@@ -7,7 +7,6 @@ Crea un array vuoto e chiedi all’utente un numero da inserire nell’array. Co
 const buttonOk = document.getElementById("ok");
 const numberHtml = document.getElementById('number');
 const ulHtml = document.getElementById('result');
-const errorMessage = document.getElementById('error-message');
 let numbersArray = [];
 let sum = 0;
 
